@@ -1,0 +1,6 @@
+[submodule "api-rocketnotes"]
+	path = api-rocketnotes
+	url = git@github.com:nikollllllas/api-rocketnotes.git
+[submodule "frontend-rocketnotes"]
+	path = frontend-rocketnotes
+	url = git@github.com:nikollllllas/frontend-rocketnotes.git
